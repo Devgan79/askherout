@@ -1,13 +1,13 @@
-<h2>AskHerOut — Interactive Valentine Web Fun</h2><br>
+<h2>AskHerOut  Interactive Valentine Web Fun</h2><br>
 
-AskHerOut is a charming, interactive web page app designed to present a personalized Valentine’s proposal (or similar greeting) with playful interactivity — where the No button moves away and the Yes button celebrates acceptance!
+AskHerOut is a charming, interactive web page app designed to present a personalized Valentine’s proposal (or similar greeting) with playful interactivity  where the No button moves away and the Yes button celebrates acceptance!
 
 This project is ideal for anyone learning HTML, CSS, and JavaScript with real-world interactivity
 
 
 <h2>Interactivity (Buttons)</h2>
 
-<h3>NO button moves away when hovered — making it hard to click!<br></h3>
+<h3>NO button moves away when hovered  making it hard to click!<br></h3>
 
 YES button is static and leads to a celebration.<br>
 
